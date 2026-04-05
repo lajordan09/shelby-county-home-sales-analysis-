@@ -103,6 +103,11 @@ FROM shelby_county_home_sales;
 ```
 
 
+### SQL Query Example
+
+![SQL Query](images/sql_query2.png)
+
+
 ### Price Range Analysis
 
 ```sql
