@@ -67,7 +67,7 @@ Analysis of sales by ZIP code reveals clear differences in market speed and pric
 
 These results indicate that certain areas experience higher demand, leading to faster sales and stronger pricing outcomes compared to other parts of the county.
 
-### Business Insight
+### 💼 Business Insight
 
 Geographic location plays a significant role in both time on market and pricing outcomes. Agents and sellers can use ZIP-level trends to better position listings and set competitive pricing strategies.
 ---
