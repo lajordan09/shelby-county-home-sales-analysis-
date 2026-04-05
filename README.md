@@ -99,12 +99,24 @@ FROM shelby_county_home_sales;
 ```
 
 ---
+## 📊 Days on Market by Price Range
+
+![Price Range DOM](images/price_range_dom.png)
+
+*Homes in higher price ranges tend to stay on the market longer compared to lower-priced homes.*
+## 🧠 Key Insight: Pricing vs Time on Market
+
+Homes priced between $300K–$500K take significantly longer to sell (53.4 days) compared to lower price ranges (~40 days).
+
+This suggests that higher-priced homes experience lower demand or require more time for buyers to commit, while lower-priced homes move more quickly in the market.
+
 
 ## 🏁 Conclusion
 
 This analysis demonstrates how pricing strategy directly impacts time on market and final sale outcomes. Proper pricing can reduce time to sale while minimizing discounts.
 
 ---
+
 
 ## 📌 Future Improvements
 
