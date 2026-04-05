@@ -4,7 +4,7 @@ SQL analysis of 5,000+ real estate transactions to evaluate pricing strategy, da
 
 ## 📊 Project Overview
 
-This project analyzes residential real estate transactions in Shelby County, TN to identify pricing strategies and market trends. The goal is to understand how listing price impacts sale price and time on market.
+This project analyzes residential real estate transactions in Shelby County, TN from April 2025 to April 2026 to identify pricing strategies and market trends. The goal is to understand how listing price impacts sale price and time on market.
 
 ---
 
@@ -17,8 +17,9 @@ How can real estate agents price homes to sell faster while maximizing sale pric
 ## 📁 Dataset
 
 * Source: MLS export
-* Scope: Single-family homes
-* Timeframe: Since April 2025
+* Property Type: Single-family homes
+* Status: Closed sales
+* Timeframe: April 2025 – April 2026
 * Price Range: $100K–$500K
 * Records: ~5,000+ sales
 
