@@ -100,11 +100,10 @@ SELECT
     ROUND(AVG(sale_to_list_ratio), 3) AS avg_ratio,
     ROUND(AVG(days_on_market), 1) AS avg_dom
 FROM shelby_county_home_sales;
-```
 
-
+```markdown
 ### SQL Query Example
-
+```
 ![SQL Query](images/sql_query2.png)
 
 
