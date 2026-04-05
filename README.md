@@ -105,6 +105,7 @@ FROM shelby_county_home_sales;
 
 ### Price Range Analysis
 
+```markdown
 ```sql
 SELECT 
     CASE 
