@@ -58,13 +58,18 @@ How can real estate agents price homes to sell faster while maximizing sale pric
 
 ## 📍 ZIP Code Analysis
 
-(you will fill this after next query)
+Analysis of sales by ZIP code reveals clear differences in market speed and pricing strength across Shelby County.
 
-Example:
+### Key Findings:
 
-* Fastest-selling ZIP codes had significantly lower days on market
-* Certain areas showed stronger pricing power (higher sale-to-list ratio)
+- **Fastest-selling ZIP codes:** 38118 (28.3 days), 38108 (29.6 days), 38134 (33.0 days)  
+- **Strongest pricing power:** ZIP code 38108, with the highest sale-to-list ratio (~0.986)  
 
+These results indicate that certain areas experience higher demand, leading to faster sales and stronger pricing outcomes compared to other parts of the county.
+
+### Business Insight
+
+Geographic location plays a significant role in both time on market and pricing outcomes. Agents and sellers can use ZIP-level trends to better position listings and set competitive pricing strategies.
 ---
 
 ## 🚀 SQL Highlights
