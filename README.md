@@ -1,7 +1,6 @@
-# shelby-county-home-sales-analysis-
+# # 🏡 Shelby County Home Sales Analysis
 SQL analysis of 5,000+ real estate transactions to evaluate pricing strategy, days on market, and market trends in Shelby County, TN.
 
-# 🏡 Shelby County Home Sales Analysis
 
 ## 📊 Project Overview
 
@@ -97,6 +96,21 @@ SELECT
     ROUND(AVG(days_on_market), 1) AS avg_dom
 FROM shelby_county_home_sales;
 ```
+FROM shelby_county_home_sales;
+
+### Price Range Analysis
+
+```sql
+SELECT 
+    CASE 
+        WHEN list_price_num BETWEEN 100000 AND 200000 THEN '100K–200K'
+        WHEN list_price_num BETWEEN 200001 AND 300000 THEN '200K–300K'
+        WHEN list_price_num BETWEEN 300001 AND 500000 THEN '300K–500K'
+        ELSE 'Other'
+    END AS price_range,
+    ROUND(AVG(days_on_market), 1) AS avg_dom
+FROM shelby_county_home_sales
+GROUP BY price_range;
 
 ---
 ## 📊 Days on Market by Price Range
@@ -104,6 +118,7 @@ FROM shelby_county_home_sales;
 ![Price Range DOM](images/price_range_dom.png)
 
 *Homes in higher price ranges tend to stay on the market longer compared to lower-priced homes.*
+
 ## 🧠 Key Insight: Pricing vs Time on Market
 
 Homes priced between $300K–$500K take significantly longer to sell (53.4 days) compared to lower price ranges (~40 days).
