@@ -96,7 +96,7 @@ SELECT
     ROUND(AVG(days_on_market), 1) AS avg_dom
 FROM shelby_county_home_sales;
 ```
-FROM shelby_county_home_sales;
+
 
 ### Price Range Analysis
 
