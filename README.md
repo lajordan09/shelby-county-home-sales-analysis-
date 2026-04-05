@@ -61,10 +61,13 @@ How can real estate agents price homes to sell faster while maximizing sale pric
 
 Analysis of sales by ZIP code reveals clear differences in market speed and pricing strength across Shelby County.
 
-### Key Findings:
+### Key Findings
 
-- **Fastest-selling ZIP codes:** 38118 (28.3 days), 38108 (29.6 days), 38134 (33.0 days)  
-- **Strongest pricing power:** ZIP code 38108, with the highest sale-to-list ratio (~0.986)  
+- **Fastest-selling ZIP codes:**  
+  38118 (28.3 days), 38108 (29.6 days), 38134 (33.0 days)
+
+- **Strongest pricing power:**  
+  ZIP code 38108, with the highest sale-to-list ratio (~98.6%)
 
 These results indicate that certain areas experience higher demand, leading to faster sales and stronger pricing outcomes compared to other parts of the county.
 
