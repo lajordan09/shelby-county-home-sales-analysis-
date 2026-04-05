@@ -105,7 +105,6 @@ FROM shelby_county_home_sales;
 
 ### Price Range Analysis
 
-```markdown
 ```sql
 SELECT 
     CASE 
@@ -116,14 +115,18 @@ SELECT
     END AS price_range,
     ROUND(AVG(days_on_market), 1) AS avg_dom
 FROM shelby_county_home_sales
+```sql
 GROUP BY price_range;
 
----
+
+
+```markdown id="finalblock"
 ## 📊 Days on Market by Price Range
 
 ![Price Range DOM](images/price_range_dom.png)
 
 *Homes in higher price ranges tend to stay on the market longer compared to lower-priced homes.*
+
 
 ## 🧠 Key Insight: Pricing vs Time on Market
 
@@ -137,7 +140,6 @@ This suggests that higher-priced homes experience lower demand or require more t
 This analysis demonstrates how pricing strategy directly impacts time on market and final sale outcomes. Proper pricing can reduce time to sale while minimizing discounts.
 
 ---
-
 
 ## 📌 Future Improvements
 
