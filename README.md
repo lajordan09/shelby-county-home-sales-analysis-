@@ -29,7 +29,7 @@ How can real estate agents price homes to sell faster while maximizing sale pric
 
 * SQLite (DB Browser)
 * SQL (data cleaning & analysis)
-
+* Microsoft Excel (data analysis)
 ---
 
 ## 🔧 Data Cleaning
