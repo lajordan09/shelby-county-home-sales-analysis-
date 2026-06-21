@@ -148,5 +148,5 @@ This analysis demonstrates how pricing strategy directly impacts time on market 
 ## 📌 Future Improvements
 
 * Add time-based trends (monthly analysis)
-* Build dashboard [Power BI / Tableau](https://github.com/lajordan09/shelby-county-home-sales-analysis-)
+* Build dashboard [Power BI / Tableau](https://lajordan09.github.io/powerbi-case-study/)
 * Include active listings for full market view
