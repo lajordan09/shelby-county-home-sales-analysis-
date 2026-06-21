@@ -148,5 +148,5 @@ This analysis demonstrates how pricing strategy directly impacts time on market 
 ## 📌 Future Improvements
 
 * Add time-based trends (monthly analysis)
-* Build dashboard [Power BI / Tableau](https://lajordan09.github.io/powerbi-case-study/)
+* Build dashboard Power BI / Tableau([https://lajordan09.github.io/powerbi-case-study/)](https://lajordan09.github.io/powerbi-case-study/)
 * Include active listings for full market view
